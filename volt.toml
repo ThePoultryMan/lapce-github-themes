@@ -1,0 +1,7 @@
+name = "lapce-github-themes"
+display-name = "GitHub Themes for Lapce"
+description = "Various themes based off of GitHub's themes."
+version = "0.1.0"
+author = "ThePoultryMan"
+respository = "https://github.com/ThePoultryMan/lapce-github-themes"
+color-themes = [ "dark-dimmed.toml" ]
