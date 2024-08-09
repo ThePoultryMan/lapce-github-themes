@@ -9,7 +9,9 @@ Unofficial GitHub Themes for the [Lapce](https://github.com/lapce/lapce) editor.
 | Dark                | :x:                 | 0.1.0 |
 | Dark Dimmed         | :hammer_and_wrench: | 0.1.0 |
 | Dark High Contrast  | :x:                 | 0.1.0 |
-**Key**
+
+**Key:**
+
 |       Symbol        |   Description    |
 |---------------------|------------------|
 | :x:                 | Not Implemented  |
